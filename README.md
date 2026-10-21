@@ -1,0 +1,2 @@
+Git Journal
+Initial repository
